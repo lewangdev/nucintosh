@@ -1,4 +1,4 @@
-Nucintosh  - Hackintosh on Intel Nuc8
+Nucintosh  - Hackintosh on Intel NUC8
 =====================================
 
 ## Avaiable Devices
@@ -12,7 +12,8 @@ Nucintosh  - Hackintosh on Intel Nuc8
 
 ## BIOS Settings
 
-* Press F2 key to enter BIOS and press F9 to reset BOIS 
+Press F2 key to enter BIOS and press F9 to reset BOIS 
+
 * Boot -> Boot Priority -> Legacy Boot Priority -> Legacy Boot  : Disable
 * Boot -> Boot Configuration
     * UEFI Boot -> Fast Boot : Disable
