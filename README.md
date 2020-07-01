@@ -1,10 +1,14 @@
-Nuciontosh  - Hackintosh on Intel Nuc8
+Nucintosh  - Hackintosh on Intel Nuc8
 =====================================
 
 ## Avaiable Devices
 
 * NUC8i5BEH
 * NUC8i7BEH
+
+## OpenCore Version
+
+* 0.5.9
 
 ## BIOS Settings
 
@@ -24,7 +28,7 @@ Nuciontosh  - Hackintosh on Intel Nuc8
 
 ## Make a bootable macOS Udisk
 
-* [How to create a bootable installer for macOS](https://support.apple.com/en-us/HT201372) [中文](https://support.apple.com/zh-cn/HT208496)
+* [How to create a bootable installer for macOS](https://support.apple.com/en-us/HT201372) [[中文](https://support.apple.com/zh-cn/HT208496)]
 * Mount UDisk EFI Partition and copy OpenCore to it
 
 ```txt
@@ -47,5 +51,5 @@ macOS\ Installer
 
 ## Notice
 
-* ``EFI-OC-Apple.zip``for Apple Broadcom WiFi/Bluetooth card, such as BCM943602CS
-* ``EFI-OC-Intel.zip``for onboard Intel WiFi and Bluetooth
+* ``EFI-OC-Apple``for Apple Broadcom WiFi/Bluetooth card, such as BCM943602CS
+* ``EFI-OC-Intel``for onboard Intel WiFi and Bluetooth
