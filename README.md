@@ -16,10 +16,10 @@ Press F2 key to enter BIOS and press F9 to reset BOIS
 
 * Boot -> Boot Priority -> Legacy Boot Priority -> Legacy Boot  : Disable
 * Boot -> Boot Configuration
-    * UEFI Boot -> Fast Boot : Disable
-    * UEFI Boot -> Boot USB Devices First  : Enable
-    * UEFI Boot -> Boot Network Devices Last  : Enable
-    * Boot Devices -> Network Boot : Disable 
+    * UEFI Boot -> Fast Boot : Disable
+    * UEFI Boot -> Boot USB Devices First  : Enable
+    * UEFI Boot -> Boot Network Devices Last  : Enable
+    * Boot Devices -> Network Boot : Disable 
 * Boot -> Secure Boot -> Secure Boot  : Disable
 * Security -> Security Features -> Inter VT for directed I/VO (VT -d)  : Disable
 * Power -> Secondary Power Settings -> Wake on LAN from S4/S5  : Stay Off 
