@@ -43,7 +43,7 @@ macOS\ Installer
 
 * Boot from udisk and install macOS
 
-## Configarations After Installing macOS
+## Configurations After Installing macOS
 
 * Mount macOS EFI Partition and Copy OpenCore to it
 * Change SN/SLB/DeviceUUID
